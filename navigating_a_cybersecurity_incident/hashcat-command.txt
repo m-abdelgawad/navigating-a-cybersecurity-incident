@@ -1,0 +1,6 @@
+hashcat -m 0 -a 0 --show hashes.txt realhuman_phill.txt
+
+Cracked dictionary: realhuman_phill.txt
+
+Another big dictionary exists at:
+https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm
